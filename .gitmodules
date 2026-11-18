@@ -1,5 +1,35 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/sedzinfo/sedzinfo.r-universe.dev
 	branch = HEAD
+[submodule "covid"]
+	path = covid
+	url = https://github.com/sedzinfo/covid
+[submodule "golemcat"]
+	path = golemcat
+	url = https://github.com/sedzinfo/golemcat
+[submodule "golemcrypto"]
+	path = golemcrypto
+	url = https://github.com/sedzinfo/golemcrypto
+[submodule "golemenviro"]
+	path = golemenviro
+	url = https://github.com/sedzinfo/golemenviro
+[submodule "golemeurostat"]
+	path = golemeurostat
+	url = https://github.com/sedzinfo/golemeurostat
+[submodule "golemirt"]
+	path = golemirt
+	url = https://github.com/sedzinfo/golemirt
+[submodule "golemstockindices"]
+	path = golemstockindices
+	url = https://github.com/sedzinfo/golemstockindices
+[submodule "golemworldbank"]
+	path = golemworldbank
+	url = https://github.com/sedzinfo/golemworldbank
+[submodule "rwf"]
+	path = rwf
+	url = https://github.com/sedzinfo/rwf
+	subdir = rwf
+[submodule "snp"]
+	path = snp
+	url = https://github.com/sedzinfo/snp
